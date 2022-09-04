@@ -29,7 +29,7 @@ public class Grader {
             System.out.println("C");
         } else if ((gradeToCheck >= 49) && (gradeToCheck <= 64)) {
             System.out.println("D");
-        } else if (gradeToCheck <= 50) {
+        } else if (gradeToCheck <= 48) {
             System.out.println("E");
         }
     }
